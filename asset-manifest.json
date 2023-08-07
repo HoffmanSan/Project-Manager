@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Project-Manager/static/css/main.551a9758.css",
+    "main.js": "/Project-Manager/static/js/main.530f957f.js",
+    "index.html": "/Project-Manager/index.html",
+    "static/media/temple.svg": "/Project-Manager/static/media/temple.c57f882d6ddeca845dd49539d9e5e2d9.svg",
+    "static/media/dashboard_icon.svg": "/Project-Manager/static/media/dashboard_icon.bc800f3b9286b71005c3f026ebfaa958.svg",
+    "static/media/add_icon.svg": "/Project-Manager/static/media/add_icon.376e9b6a44e5b3142f1239a3cc8504d0.svg",
+    "main.551a9758.css.map": "/Project-Manager/static/css/main.551a9758.css.map",
+    "main.530f957f.js.map": "/Project-Manager/static/js/main.530f957f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.551a9758.css",
+    "static/js/main.530f957f.js"
+  ]
+}
